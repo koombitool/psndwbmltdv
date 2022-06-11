@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
+global.owner = ['+94771234567']
 global.premium = ['+94771234567']
 global.ownernomer = '+94771234567'
 global.ownername = '💖 Pasindu'
